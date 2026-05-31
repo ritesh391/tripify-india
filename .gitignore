@@ -1,3 +1,6 @@
 node_modules
 tripify-backend/node_modules
 tripify-frontend/node_modules
+
+tripify-backend/.env
+tripify-frontend/.env
